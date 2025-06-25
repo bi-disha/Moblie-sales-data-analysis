@@ -9,9 +9,14 @@ This dashboard provides insights into mobile phone sales data across different b
 - Profit margin and top-selling models
 - Region-wise performance metrics
 
+
 ## 🧰 Tools Used
 - Power BI Desktop
 - Data Transformation, DAX Calculations
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](data_professional_survey.png)
 
 
 ## 📥 How to Use
