@@ -16,7 +16,7 @@ This dashboard provides insights into mobile phone sales data across different b
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](data_professional_survey.png)
+![Dashboard Preview](mobile_sales_data.png)
 
 
 ## 📥 How to Use
