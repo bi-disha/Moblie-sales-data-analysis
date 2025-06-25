@@ -2,8 +2,6 @@
 
 This dashboard provides insights into mobile phone sales data across different brands and regions.
 
-## 📄 File
-- `Mobile_sales_data_analysis.pbix`: Power BI file for interactive exploration.
 
 ## 🔍 Dashboard Features
 - Monthly and yearly sales trends
@@ -15,8 +13,6 @@ This dashboard provides insights into mobile phone sales data across different b
 - Power BI Desktop
 - Data Transformation, DAX Calculations
 
-## 🖼️ Preview (Optional)
-_Add a screenshot here if available_
 
 ## 📥 How to Use
 1. Download the `.pbix` file
